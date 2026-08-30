@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Jeremy Arthur 👋
+# Hola, soy Jeremy Arthur 
 
 ### Full-stack Developer · Python (Django · FastAPI) · React/TypeScript
 
