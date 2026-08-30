@@ -38,14 +38,14 @@ dashboards con React, con tests, documentación y despliegue real.
 
 🔗 [Ver repositorio](https://github.com/jeremyarthur/taskflow)
 
-### 🔄 NoteSync — Notas del S Pen que llegan a tu iPhone
-*Puente entre ecosistemas Samsung → iOS: capturada la nota, recordatorio en iPhone.*
+### ✍️ NoteSync — Notas manuscritas del S Pen → iPhone
+*Escribe a mano con el S Pen en tu Samsung y recibe la nota en tu iPhone.*
 
-- **Backend:** FastAPI, SQLAlchemy, feed **WebCal** (`.ics`), seguridad por API key
-- **Frontend:** React PWA instalable con Service Worker
-- **Integración real:** compatible con **Atajos de iOS** y suscripción a Calendario
+- **Backend:** FastAPI, tinta vectorial en JSON (trazos + presión), feed **WebCal** (`.ics`), API key
+- **Frontend:** React PWA instalable, lienzo con Pointer Events (`pen` + presión), visor con zoom
+- **Integración real:** compatible con **Atajos de iOS** (Share Sheet) y suscripción a Calendario
 
-🔗 [Ver repositorio](https://github.com/jeremyarthur/notesync)
+🔗 [Ver repositorio](https://github.com/jeremyarthur/notesync) · 18 tests con pytest
 
 > 📖 Otros proyectos de práctica: [`Uniruta`](https://github.com/jeremyarthur/Uniruta) (React/TS) · [`LP2`](https://github.com/jeremyarthur/LP2) (Python)
 
