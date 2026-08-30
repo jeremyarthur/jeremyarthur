@@ -61,8 +61,7 @@ dashboards con React, con tests, documentación y despliegue real.
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyarthur&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/jeremyarthur)
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyarthur&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jeremyarthur)
+
 
 **Abierto a oportunidades laborales y freelance.** ¿Tienes un reto? ¡Hablemos! 
 
