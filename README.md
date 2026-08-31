@@ -4,7 +4,7 @@
 
 ### Full-stack Developer · Python (Django · FastAPI) · React/TypeScript
 
-**Santo Domingo, República Dominicana** 🇩🇴 · Español / English
+**Santo Domingo, República Dominicana** · Español / English
 
 Construyo aplicaciones web completas: APIs REST con Django y FastAPI, tableros y
 dashboards con React, con tests, documentación y despliegue real.
@@ -13,7 +13,7 @@ dashboards con React, con tests, documentación y despliegue real.
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 | Backend | Frontend | Datos · Ops |
 |---|---|---|
@@ -27,16 +27,16 @@ dashboards con React, con tests, documentación y despliegue real.
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 🤖 TaskFlow — Gestor de tareas con tablero kanban
+### TaskFlow — Gestor de tareas con tablero kanban
 *Aplicación full-stack para demostración.*
 
 - **Backend:** Django REST Framework, JWT, Swagger, 11 tests con pytest
 - **Frontend:** React 19 + TypeScript + Vite + Tailwind, drag & drop entre columnas
 - **Extras:** dashboard con estadísticas, filters API, `render.yaml` listo para deploy
 
-🔗 [Ver repositorio](https://github.com/jeremyarthur/taskflow)
+[Ver repositorio](https://github.com/jeremyarthur/taskflow)
 
 ### FinTrack — Finanzas personales
 *Registra tus ingresos y gastos, clasifícalos por categoría y consulta tu resumen mensual.*
@@ -45,13 +45,11 @@ dashboards con React, con tests, documentación y despliegue real.
 - **Frontend:** React 19 + TypeScript + Vite + Tailwind, dashboard mensual con desglose por categoría
 - **Extras:** 15 tests con pytest, API + app desplegadas en Render
 
-🔗 [Ver repositorio](https://github.com/jeremyarthur/fintrack)
-
-
+[Ver repositorio](https://github.com/jeremyarthur/fintrack)
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeremy--martinez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-martinez-61b6a7297)
 [![Email](https://img.shields.io/badge/Email-jarthur.mrtnez@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jarthur.mrtnez@gmail.com)
