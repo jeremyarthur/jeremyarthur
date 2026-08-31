@@ -47,7 +47,7 @@ dashboards con React, con tests, documentación y despliegue real.
 
 🔗 [Ver repositorio](https://github.com/jeremyarthur/fintrack)
 
-> 📖 Otros proyectos de práctica: [`Uniruta`](https://github.com/jeremyarthur/Uniruta) (React/TS) · [`LP2`](https://github.com/jeremyarthur/LP2) (Python)
+
 
 ---
 
