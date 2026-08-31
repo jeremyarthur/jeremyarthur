@@ -38,14 +38,14 @@ dashboards con React, con tests, documentación y despliegue real.
 
 🔗 [Ver repositorio](https://github.com/jeremyarthur/taskflow)
 
-### ✍️ NoteSync — Notas manuscritas del S Pen → iPhone
-*Escribe a mano con el S Pen en tu Samsung y recibe la nota en tu iPhone.*
+### FinTrack — Finanzas personales
+*Registra tus ingresos y gastos, clasifícalos por categoría y consulta tu resumen mensual.*
 
-- **Backend:** FastAPI, tinta vectorial en JSON (trazos + presión), feed **WebCal** (`.ics`), API key
-- **Frontend:** React PWA instalable, lienzo con Pointer Events (`pen` + presión), visor con zoom
-- **Integración real:** compatible con **Atajos de iOS** (Share Sheet) y suscripción a Calendario
+- **Backend:** FastAPI, JWT, PostgreSQL, import desde CSV (pandas) y export a CSV y PDF (reportlab)
+- **Frontend:** React 19 + TypeScript + Vite + Tailwind, dashboard mensual con desglose por categoría
+- **Extras:** 15 tests con pytest, API + app desplegadas en Render
 
-🔗 [Ver repositorio](https://github.com/jeremyarthur/notesync) · 18 tests con pytest
+🔗 [Ver repositorio](https://github.com/jeremyarthur/fintrack)
 
 > 📖 Otros proyectos de práctica: [`Uniruta`](https://github.com/jeremyarthur/Uniruta) (React/TS) · [`LP2`](https://github.com/jeremyarthur/LP2) (Python)
 
